@@ -10,8 +10,6 @@ package projectdemo;
  */
 public class ProjectDemo {
 
-    //showing pull
-
     /**
      * @param args the command line arguments
      */
@@ -23,6 +21,7 @@ public class ProjectDemo {
 
         //showing fetch
         //showing merge
+        //showing pull
         
         
     }
